@@ -7,5 +7,5 @@ It's a 30 day tutorial sessions written for specific list of people who are inte
 ## List of Days
 [Day 1](https://github.com/variiable/c-plus-plus-the-easy-way/blob/master/DayOne.md) , 
 [Day 2](https://github.com/variiable/c-plus-plus-the-easy-way/blob/master/DayTwo.md) , 
-[Day 3 & 4](https://github.com/variiable/c-plus-plus-the-easy-way/blob/master/DayThree-and-DayFour.md)
-
+[Day 3 & 4](https://github.com/variiable/c-plus-plus-the-easy-way/blob/master/DayThree-and-DayFour.md), 
+[Day 5](https://github.com/variiable/c-plus-plus-the-easy-way/blob/master/DayFive.md)
