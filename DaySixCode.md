@@ -1,6 +1,6 @@
 ### Learn C++ the easy way! Day 6: Arrays
 
-#### Video: [![C++ Day 6: Array](https://www.youtube.com/upload_thumbnail?v=lPulK2jGNc0&t=3&ts=1524080857306)](https://youtu.be/lPulK2jGNc0)
+#### Video: (https://youtu.be/lPulK2jGNc0)
 
 #### Code: 
 
@@ -21,4 +21,8 @@ int main(){
 
 #### Explanation: 
 
-[under construction]
+We've created an array of type int and declared it with no value at all (no size), so it'll dynamically allocate the amount of memory it requires during the compile time. Now, compile time is the time a compiler takes in order to change high level programming language (C++ in this case) into low level programming language (binary in all cases). 
+
+What we are doing in this code after declaring and initializing an array of type int? Well, after completely declaring and initializing the array of type int, we're replacing a data at 5th location to the new data that we're replacing at line 15 of our code.
+
+This way, we'll be able to replace the data of array without actually modifying the array and once we're done with replacing, we can revert back to our original set of numbers by commenting out the line 15.
